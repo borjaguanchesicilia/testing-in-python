@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(1, '/home/borja/Desktop/tfg/pruebas/8.UnitTesting')
+sys.path.insert(1, './')
 from src.complejo import Complejo
 
 
